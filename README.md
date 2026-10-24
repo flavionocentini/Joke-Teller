@@ -1,2 +1,2 @@
 # Joke-Teller
-Discord bot that tells jokes
+A Discord bot that fetches and delivers random jokes through an external API.
