@@ -1,0 +1,24 @@
+{
+  "name": "Joke-Teller",
+  "version": "1.0.0",
+  "description": "A Discord bot that fetches and delivers random jokes through an external API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flavionocentini/Joke-Teller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flavionocentini/Joke-Teller/issues"
+  },
+  "homepage": "https://github.com/flavionocentini/Joke-Teller#readme",
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^18.0.9"
+  }
+}
